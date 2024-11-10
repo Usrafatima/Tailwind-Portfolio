@@ -107,7 +107,7 @@ export default function Home() {
       A passionate front-end developer with a strong focus on creating visually engaging and user-friendly web applications. With experience in React, Next.js, and Tailwind CSS, I enjoy turning complex ideas into seamless digital experiences.
     </p>
     <p className="whitespace-normal max-w-lg lg:max-w-xl my-5 mx-auto">
-      I am committed to continual learning, and I'm currently expanding my skills in UI/UX design, working on a range of personal and professional projects. I aim to blend my technical expertise with a user-centered approach to design, ensuring every project is both aesthetically pleasing and functional.
+      I am committed to continual learning, and I am currently expanding my skills in UI/UX design, working on a range of personal and professional projects. I aim to blend my technical expertise with a user-centered approach to design, ensuring every project is both aesthetically pleasing and functional.
     </p>
   </div>
   
